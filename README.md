@@ -1,2 +1,5 @@
 # Repositorio do Desafio de Projeto sobre Git/GitHub da Dio
-Primeiro repositório para finalizar o módulo do Git e GitHub
+Repositório criado para  o desafio de projeito.
+
+##links úteis 
+[Sintaxe Basica Markdow(https://www.markdownguide.org/basic-syntax/]
